@@ -1,0 +1,35 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "noData": "No data found",
+    "somethingWentWrong": "Something went wrong",
+    "tryAgainLater": "Please try again later",
+    "ok": "OK"
+  },
+  "login": {
+    "login": "Login",
+    "email": "Email",
+    "password": "Password"
+  },
+  "errors": {
+    "passwordMinLength": "Password must be at least 8 characters",
+    "requiredField": "This field is required",
+    "emailNotValid": "Email is not valid"
+  },
+  "feeds": {
+    "feeds": "FEEDS"
+  },
+  "profile": {
+    "profile": "PROFILE",
+    "name": "Name: {{name}}",
+    "email": "Email: {{email}}",
+    "logout": "Logout",
+    "light": "light",
+    "dark": "dark",
+    "changeThemeTo": "Change theme to {{theme}}"
+  },
+  "modal": {
+    "connectionLost": "Connection Lost",
+    "connectionDescription": "It seems that you have lost your internet connection. Please check your connection and try again."
+  }
+}
