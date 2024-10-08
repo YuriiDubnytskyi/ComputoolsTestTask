@@ -15,7 +15,7 @@
 
 ### State Persistence
 
-- The application **saves the state** if user close app but still login
+- The application **saves the state** if user close app but still logged.
 
 ### Login Screen
 
